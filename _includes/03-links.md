@@ -1,1 +1,1 @@
-  https://github.com/Tanish-Eagle
+[GitHub Profile](https://github.com/Tanish-Eagle)
