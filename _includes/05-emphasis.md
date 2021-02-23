@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I do no *c*
+I do have some knowledge of *java*
+
+I am currently **learning** *JavaScript*
+
+I wish to **learn** in the future is *rust*
